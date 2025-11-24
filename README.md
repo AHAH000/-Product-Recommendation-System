@@ -247,12 +247,6 @@ Open `dashboard/powerbi.pbix`.
 
 ---
 
-# 📷 Screenshots
-
-*Add dashboard screenshots here once ready.*
-
----
-
 # 📚 Future Improvements
 
 * Add collaborative filtering model
@@ -261,19 +255,4 @@ Open `dashboard/powerbi.pbix`.
 * Build a small Flask frontend to interact with the model
 * Add real-time recommendations via SQL triggers
 
----
 
-# 💬 Contact
-
-If you'd like help improving the project or adding deployment, feel free to reach out.
-
----
-
-If you want, I can also generate:
-
-✅ A shorter README
-✅ A more technical README
-✅ A CV-optimized project summary
-✅ A GitHub project description
-
-Just tell me!
